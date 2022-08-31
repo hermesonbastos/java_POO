@@ -42,8 +42,7 @@ class Car{
     }
     
     
-    public void drive (int km){
-        
+    public void drive (int km){    
         if(this.gas == 0){
             System.out.println("fail: tanque vazio");
         } else if(km > this.gas && this.pass > 0){
