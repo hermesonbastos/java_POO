@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.text.*;
 
 class Car{
     public int pass; // Passageiros
