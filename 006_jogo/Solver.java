@@ -2,7 +2,6 @@ import java.util.Scanner;
 import java.util.Locale;
 import java.util.Arrays;
 
-
 class Jogo{
     
     private int numJogadores;
